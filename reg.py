@@ -103,7 +103,7 @@ def eth_auth(signed_message, nonce):
         "blockchainName": "ethereum",
         "signedMessage": signed_message,
         "nonce": nonce,
-        "referralId": "rgbGRvpn" # change your referralID here
+        "referralId": "kr6HuKXd" # change your referralID here
     }
     log_info("Sending eth auth request...")
     try:
